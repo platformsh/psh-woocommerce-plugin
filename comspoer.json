@@ -1,0 +1,16 @@
+{
+  "name": "platformsh/psh-woocommerce-plugin",
+  "version": "0.0.1",
+  "type": "wordpress-dropin",
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^3.2",
+    "dealerdirect/phpcodesniffer-composer-installer": "*",
+    "wp-coding-standards/wpcs": "*" 
+  },
+  "require": {
+    "php": ">=7.1",
+    "wpackagist-plugin/woocommerce": "^5.8",
+    "platformsh/client": ">=0.55.0 <2.0",
+    "pugx/shortid-php": "^0.7.0" 
+  }
+}
