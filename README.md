@@ -18,7 +18,7 @@ Pull requests that add generally useful functionality may be accepted.
 
 ## Installation
 
-You can install this just like a regular WordPress plugin. If you want to use `composer`, you can refer to the [official documentation](https://getcomposer.org/doc/05-repositories.md#loading-a-package-from-a-vcs-repository) on how to add packages from a VCS source.
+You can install this just like any regular WordPress plugin. If you would like to use `composer`, you can refer to the [official documentation](https://getcomposer.org/doc/05-repositories.md#loading-a-package-from-a-vcs-repository) on how to add packages from a VCS source.
 
 ## [Requirements](https://github.com/platformsh/psh-woocommerce-plugin/blob/master/comspoer.json)
 
